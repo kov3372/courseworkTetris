@@ -1,0 +1,9 @@
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\bin\Debug\courseWorkTetris.exe.config
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\bin\Debug\courseWorkTetris.exe
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\bin\Debug\courseWorkTetris.pdb
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.csprojAssemblyReference.cache
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.Form1.resources
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.Properties.Resources.resources
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.csproj.GenerateResource.cache
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.exe
+D:\курсовая работа 2 семестр тетрис\courseworkTetris\courseWorkTetris\courseWorkTetris\obj\Debug\courseWorkTetris.pdb
